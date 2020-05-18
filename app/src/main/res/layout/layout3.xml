@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/chinese"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="200dp"
+        android:background="#88373636"
+        android:onClick="onClick23"
+        android:text="@string/noodles"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="300dp"
+        android:background="#88373636"
+        android:onClick="onClick13"
+        android:text="@string/chilli_potato"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="500dp"
+        android:background="#88373636"
+        android:onClick="onClick33"
+        android:text="@string/momos"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button412"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="400dp"
+        android:background="#88373636"
+        android:onClick="onClick43"
+        android:text="@string/spring_rolls"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/chinese_food_recipes"
+        android:textColor="#FFFFFF"
+        android:textSize="50sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Delicious_Recipes</string>
+    <string name="south_indian">South-Indian</string>
+    <string name="north_indian">North-Indian</string>
+    <string name="chinese">Chinese</string>
+    <string name="delicious_food">Delicious Food</string>
+    <string name="italian">Italian</string>
+    <string name="dosa">Dosa</string>
+    <string name="idli_sambhar">Idli Sambhar</string>
+    <string name="uttapam">Uttapam</string>
+    <string name="sambhar_vada">Sambhar Vada</string>
+    <string name="south_indian_food_recipes">South-Indian Food Recipes</string>
+    <string name="noodles">Noodles</string>
+    <string name="chilli_potato">Chilli Potato</string>
+    <string name="momos">Momos</string>
+    <string name="spring_rolls">Spring Rolls</string>
+    <string name="chinese_food_recipes">Chinese Food Recipes</string>
+    <string name="pasta">Pasta</string>
+    <string name="italian_food_recipes">Italian Food Recipes</string>
+    <string name="burger">Burger</string>
+    <string name="matar_paneer">Matar Paneer</string>
+    <string name="chola_bhatura">Chola Bhatura</string>
+    <string name="kadhai_paneer">Kadhai paneer</string>
+    <string name="north_indian_food_recipes">North-Indian Food Recipes</string>
+    <string name="shahi_paneer">Shahi paneer</string>
+    <string name="pizza">Pizza</string>
+    <string name="french_fries">French Fries</string>
+</resources>
